@@ -22,8 +22,10 @@
 						</div>
 						<div class="col-sm-4">
 							<ul class="hours">
-								<li><span class="days">Wed-Sat:</span> 12PM - 6PM</li>
-								<li><span class="days">Sun-Tue:</span> Closed</li>
+								<li><span class="days">Tue-Thu:</span> By Appointment.<br /><small>Please call us at 314-721-3361 to confirm someone will be available to service you.</small></li>
+								<li><span class="days">Fri:</span> 1PM - 5PM</li>
+								<li><span class="days">Sat:</span> 11PM - 4PM</li>
+								<li><span class="days">Sun-Mon:</span> Closed</li>
 							</ul>
 						</div>
 						<div class="col-sm-4">

@@ -20,7 +20,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	/*
 	// Host names from where the form is authorized
 	// to be posted from:  
-	$authHosts = array("iconagility.com", "dev.iconagility.com");
+	$authHosts = array("diversitygallerystl.com", "staging.iconagility.com");
 	// Where have we been posted from?
 	$fromArray = parse_url(strtolower($_SERVER['HTTP_REFERER']));
 	// Test to see if the $fromArray used www to get here.

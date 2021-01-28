@@ -7,7 +7,7 @@
 								<a href="https://www.facebook.com/Diversity-Gallery-165486336802109/" class="facebook" target="_blank" title="Diversity Gallery on Facebook">
 									<i class="fa fa-3x fa-facebook-official" aria-hidden="true"></i> <span class="sr-only">Diversity Gallery  on Facebook</span>
 								</a>
-								<a href="https://www.instagram.com/diversitygallerystl/" class="instagram" target="_blank" title="Diversity Gallery  on Instagram">
+								<a href="https://instagram.com/diversitygallerystlouis" class="instagram" target="_blank" title="Diversity Gallery  on Instagram">
 									<i class="fa fa-3x fa-instagram" aria-hidden="true"></i> <span class="sr-only">Diversity Gallery  on Instagram</span>
 								</a>
 							</nav>

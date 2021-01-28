@@ -16,7 +16,7 @@
 		</div><!-- /jumbotron -->
 		<main role="main">
 			<div class="band">
-				<div class="container">
+				<div class="container pb-5">
 					<h1 class="text-uppercase heading-1">
 						<span>Contact Us</span>
 					</h1>

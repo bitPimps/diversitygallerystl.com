@@ -34,7 +34,7 @@
 						</div>
 						<div class="col-md-5">
 							<div class="thumbnail">
-								<img src="../img/leslie-and-daughter.jpg" alt="Leslie Christian-Wilson">
+								<img src="/img/pages/leslie-and-daughter.jpg" alt="Leslie Christian-Wilson">
 								<div class="caption text-right">
 									<p class="text-muted"><small>Leslie Christian-Wilson and her daughter Skylar</small></p>
 								</div>

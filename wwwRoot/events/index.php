@@ -49,7 +49,7 @@
 						</div>
 						<div class="col-md-6">
 							<div class="thumbnail">
-								<img src="../img/events.jpg" alt="Leslie Christian-Wilson">
+								<img src="/img/pages/events.jpg" alt="Leslie Christian-Wilson">
 								<div class="caption text-right">
 									<p class="text-muted"><small>Leslie Christian-Wilson</small></p>
 								</div>

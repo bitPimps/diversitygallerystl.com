@@ -66,8 +66,12 @@
 							</blockquote>
 						</div>
 						<div class="col-md-5">
+                            <div class="embed-responsive embed-responsive-4by3">
+                                <video class="embed-responsive-item" src="/img/pages/testimonial-frita.mp4" controls></video>
+						        <!--<iframe class="embed-responsive-item" src="/img/pages/testimonial-frita.mp4" allowfullscreen allowtransparency="true" mozallowfullscreen webkitallowfullscreen></iframe>-->
+					        </div>
 							<div class="thumbnail">
-								<img src="../img/testimonials.jpg" alt="Diversity Gallery Testimonials">
+								<img src="/img/pages/testimonials.jpg" alt="Diversity Gallery Testimonials">
 							</div>
 						</div>
 					</div>

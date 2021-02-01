@@ -16,7 +16,13 @@
 						<ul class="nav navbar-nav navbar-right">
 							<!--<li<?php if($navMainOn=="Products"){?> class="active"<?php } ?>><a href="/products/index.php">Products</a></li>-->
 							<li<?php if($navMainOn=="Events"){?> class="active"<?php } ?>><a href="/events/index.php">Events</a></li>
-							<li<?php if($navMainOn=="About"){?> class="active"<?php } ?>><a href="/about/index.php">About</a></li>
+							<li class="dropdown<?php if($navMainOn=="About" || $navMainOn=="Testimonials"){?> active<?php } ?>">
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a>
+								<ul class="dropdown-menu">
+									<li<?php if($navMainOn=="About"){?> class="active"<?php } ?>><a href="/about/index.php">About</a></li>
+									<li<?php if($navMainOn=="Testimonials"){?> class="active"<?php } ?>><a href="/about/testimonials.php">Testimonials</a></li>
+								</ul>
+							</li>
 							<li<?php if($navMainOn=="Contact"){?> class="active"<?php } ?>><a href="/contact/index.php">Contact</a></li>
 						</ul>
 					</div>

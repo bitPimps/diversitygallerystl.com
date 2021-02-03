@@ -31,6 +31,9 @@
 							<div class="embed-responsive embed-responsive-16by9">
 								<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Zps-NnZlzoA?rel=0" allowfullscreen></iframe>
 							</div>
+							<hr>
+							<h2>St. Louis Nonprofit Helps Minority Entrepreneurs Stay In Business During Pandemic</h2>
+							<p>Read the <a href="https://news.stlpublicradio.org/economy-business/2021-02-03/st-louis-nonprofit-helps-minority-entrepreneurs-stay-in-business-during-pandemic" target="_blank"><em>St. Louis Public Radio</em></a> article featuring Leslie!</p>
 						</div>
 						<div class="col-md-5">
 							<div class="thumbnail">

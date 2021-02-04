@@ -16,6 +16,13 @@
 						<ul class="nav navbar-nav navbar-right">
 							<!--<li<?php if($navMainOn=="Products"){?> class="active"<?php } ?>><a href="/products/index.php">Products</a></li>-->
 							<li<?php if($navMainOn=="Events"){?> class="active"<?php } ?>><a href="/events/index.php">Events</a></li>
+							<li class="dropdown<?php if($navMainOn=="Shop" || $navMainOn=="Oil and Incense"){?> active<?php } ?>">
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Shop <span class="caret"></span></a>
+								<ul class="dropdown-menu">
+									<li<?php if($navMainOn=="Shop"){?> class="active"<?php } ?>><a href="#">Shop <em>(Coming Soon!)</em></a></li>
+									<li<?php if($navMainOn=="Oil and Incense"){?> class="active"<?php } ?>><a href="/shop/oil-and-incense.php">Oil and Incense</a></li>
+								</ul>
+							</li>
 							<li class="dropdown<?php if($navMainOn=="About" || $navMainOn=="Testimonials"){?> active<?php } ?>">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a>
 								<ul class="dropdown-menu">

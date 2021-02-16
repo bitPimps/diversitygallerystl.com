@@ -21,6 +21,7 @@
 								<ul class="dropdown-menu">
 									<li<?php if($navMainOn=="Shop"){?> class="active"<?php } ?>><a href="#">Shop <em>(Coming Soon!)</em></a></li>
 									<li<?php if($navMainOn=="Oil and Incense"){?> class="active"<?php } ?>><a href="/shop/oil-and-incense.php">Oil and Incense</a></li>
+									<li><a href="https://www.skylarlicious.com/">Skylarlicious Naturals for Kids</a></li>
 								</ul>
 							</li>
 							<li class="dropdown<?php if($navMainOn=="About" || $navMainOn=="Testimonials"){?> active<?php } ?>">

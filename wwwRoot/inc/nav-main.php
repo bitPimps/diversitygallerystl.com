@@ -19,7 +19,7 @@
 							<li class="dropdown<?php if($navMainOn=="Shop" || $navMainOn=="Oil and Incense"){?> active<?php } ?>">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Shop <span class="caret"></span></a>
 								<ul class="dropdown-menu">
-									<li<?php if($navMainOn=="Shop"){?> class="active"<?php } ?>><a href="#">Shop <em>(Coming Soon!)</em></a></li>
+									<li<?php if($navMainOn=="Shop"){?> class="active"<?php } ?>><a href="https://diversity-gallery.myshopify.com/">Shop</a></li>
 									<li<?php if($navMainOn=="Oil and Incense"){?> class="active"<?php } ?>><a href="/shop/oil-and-incense.php">Oil and Incense</a></li>
 									<li><a href="https://www.skylarlicious.com/">Skylarlicious Naturals for Kids</a></li>
 								</ul>

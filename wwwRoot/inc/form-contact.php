@@ -167,7 +167,14 @@ function test_input_contact($data) {
 								<textarea class="form-control" rows="7" id="inputComments" name="inputComments" placeholder="Requests / Questions"><?php if(isset($inputComments) && $inputComments != "") { ?><?php echo $inputComments ?><?php } ?></textarea>
 							</div>
 							<div class="form-group">
-								<button type="submit" class="btn btn-success"><i class="fa fa-envelope" aria-hidden="true"></i> Submit</button> <button type="reset" class="btn btn-warning"><span class="glyphicon glyphicon-remove-sign"></span> Clear</button>
+								<button type="submit" 
+									class="g-recaptcha btn btn-success" 
+									data-sitekey="6LcA1JMaAAAAAKzWd7aJB0NKPOi4kZQaGVlJ3hKO" 
+									data-callback='onSubmit' 
+									data-action='submit'>
+										<i class="fa fa-envelope" aria-hidden="true"></i> Submit
+								</button> 
+								<button type="reset" class="btn btn-warning"><span class="glyphicon glyphicon-remove-sign"></span> Clear</button>
 							</div>
 						</form>
 						<?php } ?>

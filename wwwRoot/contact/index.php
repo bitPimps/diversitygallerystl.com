@@ -40,5 +40,11 @@
 			</div>
 		</main>
 		<?php include_once("../inc/footer.php"); ?>
+		<script src="https://www.google.com/recaptcha/api.js"></script>
+		<script>
+			function onSubmit(token) {
+				document.getElementById("contactForm").submit();
+			}
+		</script>
 	</body>
 </html>

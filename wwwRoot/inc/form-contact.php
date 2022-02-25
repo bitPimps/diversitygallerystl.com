@@ -104,8 +104,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 													  'allow_self_signed' => true
 													  )
 									   );
-			$mail->Username = "webcontact@iconatg.com";
-			$mail->Password = "ceobybnutsbxomqt";
+			$mail->Username = "websiteforms@iconatg.com";
+			$mail->Password = "Icon17999$";
 			$mail->setFrom('diversitygallery@gmail.com', 'Diversity Gallery Website');
 			$mail->addReplyTo('diversitygallery@gmail.com', 'Diversity Gallery Website');
 			$mail->addAddress('diversitygallery@gmail.com', 'Diversity Gallery Website');
